@@ -1,13 +1,24 @@
-👋 Hi, I’m @Gupta-Prasoon, a BCA student with a passion for game programming and technology.
+# Hi, I'm Prasoon Gupta 👋
 
-👀 I’m interested in exploring new technologies, learning about game development, and connecting with like-minded individuals.
+🎓 MCA Aspirant | BCA Graduate  
+💻 Java Developer | Unity Game Developer  
 
-🌱 I’m currently learning C# and Java, focusing on object-oriented programming principles and Unity game development.
+## 🚀 Tech Stack
+- Java
+- C#
+- Unity
+- Object Oriented Programming
 
-💞️ I’m looking to collaborate on game development projects or any projects that involve programming challenges.
+## 🎮 Projects
+- Java Quiz Platform
+- Unity 2D Game Prototypes
+- Data Structures in Java
 
-📫 You can reach me on GitHub or connect with me on LinkedIn [www.linkedin.com/in/gamedevprasoon].
+## 🌱 Currently Learning
+- Advanced Java
+- Unity Game Development
+- Data Structures & Algorithms
 
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I love playing video games and am always up for discussing game mechanics and design!
+## 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/gamedevprasoon
+GitHub: https://github.com/Gupta-Prasoon
