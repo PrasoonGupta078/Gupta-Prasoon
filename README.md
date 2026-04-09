@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Prasoon+Gupta;Java+Backend+Developer;Unity+Game+Developer;MCA+Student+Learning+DSA" />
+</p>
 ---
 
 <h1 align="center">Hi 👋, I'm Prasoon Gupta</h1>
