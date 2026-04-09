@@ -35,7 +35,7 @@ I enjoy building practical software projects and experimenting with **game devel
 
 ## 📊 GitHub Stats
 
-![Prasoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrasoonGupta078\&show_icons=true\&theme=tokyonight)
+![Prasoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrasoonGupta078&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -47,7 +47,7 @@ I enjoy building practical software projects and experimenting with **game devel
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasoonGupta078\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasoonGupta078&layout=compact&theme=tokyonight)
 
 ---
 
