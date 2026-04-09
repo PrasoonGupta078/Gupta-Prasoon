@@ -67,7 +67,9 @@ Java console app for managing tasks with descriptions and due dates.
 
 ## 📈 Contribution Graph
 
-[![Prasoon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrasoonGupta078\&theme=tokyo-night)](https://github.com/PrasoonGupta078)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrasoonGupta078&theme=tokyo-night"/>
+</p>
 
 ---
 
