@@ -16,12 +16,12 @@ I enjoy building practical software projects and experimenting with **game devel
 
 ## 🛠️ Tech Stack
 
-* **Java**
-* **Data Structures & Algorithms**
-* **Git & GitHub**
-* **C Programming**
-* **SQL**
-* **Unity (2D / 3D)**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
 
 ---
 
@@ -29,21 +29,48 @@ I enjoy building practical software projects and experimenting with **game devel
 
 * Java Backend Development
 * Data Structures & Algorithms
-* Writing cleaner and more efficient code
+* Writing cleaner and efficient code
 
 ---
 
-## 📂 Projects
+## 📊 GitHub Stats
 
-You can explore my work here:
+![Prasoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrasoonGupta078\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=PrasoonGupta078\&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasoonGupta078\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📂 Featured Projects
+
+Check out my repositories here:
 👉 https://github.com/PrasoonGupta078
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/gamecraftprasoon/
-* Email: [gamesorcerer48@gmail.com](mailto:gamesorcerer48@gmail.com)
+LinkedIn:
+https://www.linkedin.com/in/gamecraftprasoon/
+
+Email:
+[gamesorcerer48@gmail.com](mailto:gamesorcerer48@gmail.com)
+
+---
+
+## 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=PrasoonGupta078\&color=blue)
 
 ---
 
