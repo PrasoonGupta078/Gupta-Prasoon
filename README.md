@@ -1,24 +1,52 @@
 # Hi, I'm Prasoon Gupta 👋
 
-🎓 MCA Aspirant | BCA Graduate  
-💻 Java Developer | Unity Game Developer  
+🎓 MCA Student
+💻 Focused on **Backend Development (Java)**
+🎮 Game Development enthusiast (Unity)
 
-## 🚀 Tech Stack
-- Java
-- C#
-- Unity
-- Object-Oriented Programming
+---
 
-## 🎮 Projects
-- **Java Quiz Platform** – Console based quiz system with scoring
-- **Unity 2D Game Prototypes** – Experiments with gameplay mechanics
-- **Data Structures in Java** – Implementations of core DS concepts
+## 🚀 About Me
 
-## 🌱 Currently Learning
-- Advanced Java
-- Unity Game Development
-- Data Structures & Algorithms
+I'm an MCA student currently focusing on **Java Backend Development** and improving my **Data Structures & Algorithms** skills.
 
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/gamedevprasoon
-- GitHub: https://github.com/Gupta-Prasoon
+I enjoy building practical software projects and experimenting with **game development in Unity** as a creative side passion.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Java**
+* **Data Structures & Algorithms**
+* **Git & GitHub**
+* **C Programming**
+* **SQL**
+* **Unity (2D / 3D)**
+
+---
+
+## 📚 Currently Learning
+
+* Java Backend Development
+* Data Structures & Algorithms
+* Writing cleaner and more efficient code
+
+---
+
+## 📂 Projects
+
+You can explore my work here:
+👉 https://github.com/PrasoonGupta078
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/gamecraftprasoon/
+* Email: [gamesorcerer48@gmail.com](mailto:gamesorcerer48@gmail.com)
+
+---
+
+## ⚡ Fun Section
+
+Coming soon.
