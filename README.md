@@ -60,6 +60,7 @@ A simple task manager that allows users to **add, view, delete, and track tasks 
 Built to reinforce **core Java concepts and data structure usage**.
 
 **Tech:** Java, ArrayList, File Persistence
+
 ---
 
 ## 📊 GitHub Stats
