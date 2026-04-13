@@ -51,11 +51,11 @@ Java console app for managing tasks with descriptions and due dates.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrasoonGupta078&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasoonGupta078&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=PrasoonGupta078&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrasoonGupta078&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasoonGupta078&layout=compact&theme=tokyonight&langs_count=6" height="165"/>
 </p>
 
 ---
