@@ -33,18 +33,33 @@
 
 ## ⭐ Featured Projects
 
-### 🎮 Tilevania Adventure
+### 🎮 Tilevania Adventure — Unity 2D Platformer  
+🔗 [View Repository](https://github.com/PrasoonGupta078/Tilevania-Adventure)
 
-Retro-inspired 2D platformer built using Unity with collectibles and platform mechanics.
+A retro-inspired 2D platformer built in Unity featuring collectible coins, moving platforms, and responsive player controls.  
+Great for learning **game mechanics, collision detection, and level design**.
 
-### ☕ Quiz Platform Java
+**Tech:** Unity, C#
 
-Java-based quiz platform with authentication, quiz creation and participation.
+---
 
-### 📋 Task Management System
+### ☕ Quiz Platform — Java Console Application  
+🔗 [View Repository](https://github.com/PrasoonGupta078/quiz-platform-java)
 
-Java console app for managing tasks with descriptions and due dates.
+A Java-based quiz system with **user authentication, quiz creation, and quiz participation**.  
+Built to practice **object-oriented design, file handling, and application structure**.
 
+**Tech:** Java, File Handling, Console UI
+
+---
+
+### 📋 Task Management System — Java Console App  
+🔗 [View Repository](https://github.com/PrasoonGupta078/TaskManagementSystem)
+
+A simple task manager that allows users to **add, view, delete, and track tasks with due dates**.  
+Built to reinforce **core Java concepts and data structure usage**.
+
+**Tech:** Java, ArrayList, File Persistence
 ---
 
 ## 📊 GitHub Stats
